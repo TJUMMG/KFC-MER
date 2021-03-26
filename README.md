@@ -26,4 +26,4 @@ Run the following codes to reproduce the recognition results provided in the pap
 
 4. Cite
 
-If you use this code, please cite the following publication: Y.Su, J.Zhang, J.Liu, G.Zhai, "Key Facial Components Guided Micro-Expression Recognition Based on First & Second-Order Motion", to appear in International Conference on Multimedia and Expo (ICME2021).
+If you use this code, please cite the following publication: Y.Su, J.Zhang, J.Liu, G.Zhai, "Key Facial Components Guided Micro-expression Recognition Based on First & Second-order Motion", to appear in International Conference on Multimedia and Expo (ICME2021).
