@@ -6,7 +6,7 @@ The codes need to run in the environment: Python 3.7.
 
 1. Data preparation:
 
-Download the input data used for our experiments (optical flow, optical strain, face segmentation probability maps of CASMEII, SMIC and SAMM database) from the following link:  https://pan.baidu.com/s/1qrGNiieM5fFj_tTlXkppYA with password ‘t1nb’ and place it under directory ‘KFC-MER\’.
+Download the input data used for our experiments (optical flow, optical strain, face segmentation probability maps of CASMEII, SMIC and SAMM database) from the following link: https://pan.baidu.com/s/16cVjV0y2JejJntXrwYuo1g with password ‘jych’ and place it under directory ‘KFC-MER\’.
 
 It's worth noting that our codes for generating face segmentation probability maps refer to the PyTorch implementation of BiSeNet, and you can download it from https://github.com/zllrunning/face-parsing.PyTorch".
 
